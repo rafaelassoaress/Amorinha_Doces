@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color:rgba(253, 167, 223,0.5);
+    padding: 0;
+}
+.logo{
+    text-align:center;
+    margin:0;
+    padding:0;
+}
+.logo img{
+    width: 300px;
+    padding:0;
+    
+    }
+.slogan{
+    font-family: 'French Script MT',cursive;
+    font-size: 60px;
+    text-align: center;
+    color: rgb(158, 0, 103);
+    padding:0;
+    margin-top:0;
+}
+.menu nav a {
+    background-color:rgba(253, 167, 223,1.0);
+    border: 3px solid rgba(162, 6, 108, 0.5);
+    border-radius: 5px;
+    width: 195px; 
+    padding: 10px; 
+    text-align: center;
+    color:rgb(158, 0, 103);
+    display: inline-block; 
+    text-decoration: none; 
+    padding: 6.8px; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#main{
+    top:350px;
+    right: 500px;
+
+}
+
+#imagem_chamada{
+    position: absolute;
+    top: 350px;
+    left: 150px;
+    
+
+}
+#imagem_mae{
+    position: absolute;
+    top: 700px;
+    left: 150px;
+
+    
+}
+
+#texto_chamada{
+    text-align: center;
+    color:rgb(158, 0, 103);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 1100px;
+    left: 150px;
+    width:25vw;
+    height: 25px;
+    font-size: 18px;
+}
+
+.titulo_formulario{
+    background-color: rgba(217, 128, 250, 0.5);
+    color: rgb(158, 0, 103);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 28vw;
+    font-size: 18px;
+    position: absolute;
+    top: 400px; 
+    margin-left: 900px;
+    text-align: center;
+
+}
+.formulario{
+    background-color: rgba(217, 128, 250,0.5);
+    width: 25vw;
+    font-size: 18px;
+    padding: 23px;
+    margin-top: 226px; 
+    margin-left: 900px;
+    margin-bottom: 75px;
+}
+
+.footer{
+    background-color: rgba(253, 167, 223,0.5);
+     
+}
+
+.texto_footer{
+color:rgb(158, 0, 103);
+position: absolute;
+    top: 1350px; 
+    margin-left: 750px;
+    text-align:right;
+}
+.ecopy{
+    margin-left: 15px;
+    color:rgb(158, 0, 103);
+    }
+
+.menu_footer01{
+    color:rgb(158, 0, 103);
+    position: absolute;
+    top: 1350px; 
+    margin-left: 350px;
+    text-align: center;
+       
+}
+
+.menu_footer02{
+
+    color:rgb(158, 0, 103);
+    position: absolute;
+    top: 1350px; 
+    margin-left: 550px;
+    text-align: center; 
+    text-decoration: none;
+
+    }
+    .menu_footer01 nav a{
+    text-decoration: none;
+    color:rgb(10, 10, 10)
+    }
+
+    .menu_footer02 nav a{
+        text-decoration: none;
+        color:rgb(3, 3, 3)
+        }
